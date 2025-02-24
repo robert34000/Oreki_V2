@@ -20,7 +20,7 @@ global.botname = 'ᎧᏒᏋᏦᎥ Ꮙ2' // DON'T CHANGE
 
 global.tg = "t.me/Hughie_H"
 
-global.ownernumber = '2347079059033' //ur owner number
+global.ownernumber = '254792105520' //ur owner number
 
 
 global.ownername = '꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥' //ur owner name
